@@ -2,7 +2,7 @@
 
 To get started with the assignment, you'll first need to clone the repository to your GitHub account. Follow the steps below:
 
-1. Go to the GitHub assignment page via this URL: [GitHub Assignment Page]().
+1. Go to the GitHub assignment page via this URL: [GitHub Assignment Page](https://classroom.github.com/a/YNWaqK0h).
 
 2. Upon landing on the page, you'll be asked to authorize "GitHub Classroom" to access your GitHub account. Click on "Authorize GitHub" to proceed.
 
