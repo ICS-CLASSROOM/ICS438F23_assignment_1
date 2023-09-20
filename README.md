@@ -4,7 +4,7 @@ To get started with the assignment, you'll first need to clone the repository to
 
 1. Go to the GitHub assignment page via this URL: [GitHub Assignment Page](https://classroom.github.com/a/YNWaqK0h).
 
-2. Upon landing on the page, you'll be asked to authorize "GitHub Classroom" to access your GitHub account. Click on "Authorize GitHub" to proceed.
+2. Once on the assignment page, you'll be asked to authorize "GitHub Classroom" to access your GitHub account. Click on "Authorize GitHub" to proceed.
 
    ![Authorize GitHub](media/authorize_github.png)
 
@@ -12,7 +12,7 @@ To get started with the assignment, you'll first need to clone the repository to
 
    ![Accept Assignment](media/accept_assignment.png)
 
-4. Accepting the assignment will automatically create a copy of the repository in your GitHub account. The repository will follow this naming convention: `data-wrangling-XYZ`, where `XYZ` is your GitHub username. Once the repository is ready, you'll see a confirmation message.
+4. Accepting the assignment will automatically create a copy of the repository in your GitHub account. The repository will follow this naming convention: `working-with-large-files-XYZ`, where `XYZ` is your GitHub username. Once the repository is ready, you'll see a confirmation message.
 
    ![Repository Ready](media/done.png)
 
